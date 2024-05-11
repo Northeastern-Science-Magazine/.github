@@ -2,7 +2,7 @@
   <h1>Northeastern Science Magazine</h1>
   <table>
     <tr>
-      <td><a href=""></a></td>
+      <td><img href="https://placehold.co/15x15/c5f015/c5f015.png"></img></td>
     </tr>
   </table>
   <hr>
@@ -10,3 +10,7 @@
   <p>This Github Organization is run by the Web & Software team in order to manage online resources. Feel free to look around.</p>
   <hr>
 </div>
+
+![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)
+
+<img href="/green.png" />
